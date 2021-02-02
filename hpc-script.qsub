@@ -1,0 +1,14 @@
+#!/bin/bash
+PBS -l select=1:ncpus=5:ngpus=1
+PBS -N prta-analysis
+PBS -j oe
+PBS -o output.log
+PBS -q research
+PBS -v CONTAINER_IMAGE=nvcr.io/nvidia/l4t-pytorch:r32.5.0-pth1.7-py3
+
+cd "$PBS_O_WORKDIR" || exit $?
+date
+nvidia-smi
+git clone https://github.com/hungryjireh/prta.git
+cd prta
+python train.py --bert --training --batch_size 16 --lr 3e-5 --n_epochs 20 --patience 7
