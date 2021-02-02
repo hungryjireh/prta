@@ -1,0 +1,66 @@
+btc_0
+Coming every Sunday, Hodler‚Äôs Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, predictions and much more ‚Äî a week on Cointelegraph in one link.
+
+Top Stories This Week
+
+The Libra storyline is fast becoming a never-ending soap opera ‚Äî and we might be reaching the season finale. Facebook used its latest quarterly report to warn investors that its controversial cryptocurrency may never launch at all. The admission at least shows that the social network is taking the concerns of regulators and policymakers to heart. Although the company still expects Libra to be released in 2020 (for now), it looks like Facebook is laying the groundwork for a U-turn, if need be. Who knows what next week‚Äôs installment will have in store‚Ä¶
+
+When David Marcus, head of Facebook‚Äôs Calibra wallet, appeared in front of Congress last month, he had one warning for U.S. lawmakers: Lead the way on digital currencies, or another nation will. With those words ringing in their ears, some politicians seem to have taken notice. At a hearing of the U.S. Committee on Banking, Housing and Urban Affairs, Sen. Michael Crapo of Idaho broke rank with some of his colleagues. He said he wanted the U.S. to be at the forefront of cryptocurrencies and blockchain, adding the technology ‚Äúboth has incredible potential and incredible risk.‚Äù A fellow senator concurred ‚Äî fearful China might end up getting an upper hand in this fast-moving industry.
+
+The crypto market is often dismissed as a youth-skewed, male-dominated space ‚Äî but a new report reveals perceptions about the scale of the gender imbalance may be misguided. Previous research has indicated that more than 90% of European crypto investors are male, but this latest study suggests 22% of holders are female. What‚Äôs more, they are likelier to be in the top 10% of earners than their male counterparts. Other nuggets of information reveal that Switzerland has the highest rate of crypto ownership in Europe ‚Äî and even though the United Kingdom languishes in 11th place when it comes to its share of European crypto holders, London has the highest concentration of enthusiasts anywhere on the continent.
+
+Is Down Under down with cryptocurrencies? Potentially, based on a new explanatory memorandum issued by Australia‚Äôs government. Although the country plans to ban cash payments for goods and services worth more than 10,000 AUD ($6,900), politicians hope to exclude cryptocurrencies from this rule. Lawmakers say they want to avoid stifling innovation in the burgeoning sector ‚Äî adding that its research suggests ‚Äúthere is little current evidence‚Äù that crypto is being used to facilitate black market activities.
+
+As one country tries to provide clarity on cryptocurrencies, another is making matters murkier. The Financial Conduct Authority, Britain‚Äôs regulator, announced this week that it will not oversee Bitcoin and Ether because they are outside of its remit. To further add to the sense of confusion, the FCA says it can monitor security tokens and utility tokens ‚Äî potentially resulting in a fractured landscape for regulation.
+
+Winners and Losers
+
+At the end of the week, Bitcoin is looking up at around $10,701, Ether at $219 and XRP at $0.32. Total market cap is around $287 billion.
+
+The top three altcoin gainers of the week are TRONCLASSIC, Ubricoin and Formosa Financial. The top three altcoin losers of the week are Infinitus Token, EscrowCoin and BQT.
+
+For more info on crypto prices, make sure to read Cointelegraph‚Äôs market analysis.¬†
+
+Most Memorable Quotations
+
+‚ÄúWe love you, Bitcoin.‚Äù Jack Dorsey, founder of Twitter and Square
+
+‚ÄúWe are very, very pro-Bitcoin. There is more than enough work for us to do there. That said, we are open to emerging use cases and technologies that complement Bitcoin.‚Äù Steve Lee, Square Crypto project manager
+
+‚ÄúI want the U.S. to stay at the forefront of this technology, which both has incredible potential and incredible risk.‚Äù Michael Crapo, U.S. Senator
+
+‚ÄúThere is a lot driving the ever volatile pricing of Bitcoin, but I think its value as a leading indicator into behind the scenes geopolitical tensions shouldn't be ignored.‚Äù Peter Tchir, ex-executive director at Deutsche Bank
+
+‚ÄúThe increase in proliferation of digital asset projects outside the U.S., the movement of companies to leave the U.S. and projects to get started outside the U.S. is definitely getting people‚Äôs attention.‚Äù Jeremy Allaire, Circle CEO
+
+‚ÄúNEW ALL-TIME HIGH! On July 13th, Bitcoin Suisse conducted the highest bitcoin trade ever recorded on the summit of Breithorn, Switzerland, 4164m above sea level.‚Äù Bitcoin Suisse, crypto services provider
+
+‚ÄúThere is little current evidence that digital currency is presently being used in Australia to facilitate black economy activities. Given this, the Government has decided at the present time to effectively carve digital currency out from the cash payment limit.‚Äù¬† Australian Government
+
+‚ÄúThe recent proposal of the inter-ministerial committee of the [Indian] government to ban all cryptocurrencies barring those that are backed by the government, is not the most constructive measure.‚Äù Nasscom, major Indian trade organization
+
+‚ÄúFor years, Richard Castro used the dark web to distribute prolific quantities of powerful opioids. [...] Castro thought he could hide behind the anonymity of the internet.¬† [...] Thanks to our law enforcement partners, ‚ÄòChems_usa‚Äô is now in U.S. prison.‚Äù¬† Geoffrey S. Berman, Manhattan U.S. attorney
+
+Prediction of the Week
+
+Joe Kernen used to be a Bitcoin bear. Not anymore, it seems. The Squawk Box host stunned his guest by predicting the dominant cryptocurrency could hit $55,000 by May 2020 ‚Äî a price surge of 500% in less than a year‚Äôs time. Indicating that he‚Äôs undergone a full conversion to BTC maximalism, Kernen predicted that the upcoming halving of mining rewards will increase scarcity and result in greater demand. Kernen recently became an unlikely hero of crypto enthusiasts after he said Libra didn‚Äôt excite him at all. Appearing alongside Anthony Pompliano this week, he also warned the ‚Äúfirst country to buy Bitcoin will force others to play catch up.‚Äù
+
+FUD of the Week
+
+Thursday saw Brazil introduce new measures that mean citizens must share information about their crypto transactions with the state‚Äôs Internal Revenue Service. The new measure applies to individuals, companies and brokerages ‚Äî irrespective of whether the activity involves buying and selling coins, making deposits and withdrawals, or donating to a good cause. In a move that‚Äôs going to result in an immense amount of paperwork for Brazilian hodlers, updates will need to be shared with the taxman every single month ‚Äî with eye-watering punishments if they fail to comply. In addition to penalties of between $25 and $130, up to 3% of the value of nonreported transactions can be charged as a fine.
+
+A man from Florida has pleaded guilty to having a role in a multimillion-dollar drug dealing conspiracy that was enabled by Bitcoin. Richard Castro admitted money laundering and distributing three controlled opioid substances over the dark web. He operated under several usernames ‚Äî including ‚ÄúChems_usa,‚Äù ‚ÄúChemical_usa‚Äù and ‚ÄúJagger109‚Äù ‚Äî and will forfeit assets worth more than $4.1 million as a part of the ruling. Prosecutors in the U.S. have called Castro na√Øve for thinking ‚Äúhe could hide behind the anonymity of the internet,‚Äù and he‚Äôll be sentenced in October.
+
+¬†
+
+Forged statements by a former Singaporean prime minister are being used to dupe unsuspecting consumers into a Bitcoin scam online, regulators have claimed. The Monetary Authority of Singapore says articles are circulating that claim ex-leader Goh Chok Tong has a method to help citizens become rich in seven days ‚Äî but warns the statements were ‚Äúeither false or were taken out of context and used in a misleading way.‚Äù Victims were urged to deposit $250 into a trading platform that claims to execute automated traders on a user‚Äôs behalf.
+
+Best Cointelegraph Features
+
+Crypto‚Äôs censorship-resistant, pseudo-anonymous nature has led it to becoming a popular payment method in the adult entertainment industry. In this documentary, Cointelegraph looks at how crypto startups are revolutionizing the way pornographic content is purchased ‚Äî and asks whether it could disrupt the industry.
+
+Bitcoin has now been around for 10 years, but the debate about whether the cryptocurrency can be considered ‚Äúdigital gold‚Äù rages on. We‚Äôve asked a range of crypto and blockchain experts for their take.
+
+Back in 2014, a group of foundational experts led by David Johnston presented the Decentralized Applications (DApps) framework. This in-depth article examines whether Libra‚Äôs ecosystem could end up becoming the largest DApps network to date (if it launches), and whether Facebook should be regarded as a villain.
+
+As Bitcoin enjoyed exponential growth, especially toward the end of 2017, the crypto trading sector has flourished too. This Cointelegraph article profiles some of the analysts who are making a killing trading BTC by using a vast array of investment techniques.

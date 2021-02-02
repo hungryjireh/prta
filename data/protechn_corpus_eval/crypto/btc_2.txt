@@ -1,0 +1,26 @@
+btc_2
+Cybercriminals earned $1.2 million in Bitcoin (BTC) through ‚Äúsextortion‚Äù and bomb threat scams in the last 12 months, cybersecurity company Symantec reports on July 30.
+
+In sextortion scams, the scammers send victims emails that include an old password in the subject line, claiming the device is compromised. The message further states that the scammer is in possession of a photo or video of the victim looking at pornography websites, ostensibly obtained through a hacked webcam.
+
+In other cases, the author of the email claims to be a member of law enforcement who found child pornography on the receiver‚Äôs device.
+
+The author of the email further intimates that ‚Äî if the receiver of the message does not send a requested amount of Bitcoin to the address provided ‚Äî the embarrassing images will be shared with the victim‚Äôs friends, relatives or colleagues.
+
+Usually, the scammers ask for hundreds of dollars. A message published by Symantec asks the receiver to send $708.
+
+Bitcoin extortion with bomb threats
+
+Syantec also notes similar emails containing bomb threats, claiming that a concealed bomb has been planted in the place where the victim conducts business, which will explode unless Bitcoin is sent by the end of the working day. In this case, the screenshot shows the scammer asking for $20,000.
+
+
+
+Example of bomb scare email scam. Source: Symantec
+
+According to Symantec, the scams are not targeted and the aforementioned passwords were likely obtained through one of the recent massive data dumps of potentially sensitive information.¬†
+
+Per the report, in May 2019, 63 wallets associated with such scams received a total of 12.8 BTC, worth $106,240 at the time. Symantec estimated the yearly income of $1.2 million by taking the example of May as a likely monthly average.¬†
+
+Symantec recommended that individuals take extra email security measures to protect against such scams, and advised not to open emails from unknown sources or open links and attachments in scam emails, should they receive one.¬†
+
+As Cointelegraph reported last month, the South Korean Justice Ministry estimated that cryptocurrency-related crimes caused 2.69 trillion won (about $2.28 billion) of financial damage between July 2017 and June 2019.
